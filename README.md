@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/aomsk/blog-preview-card/blob/main/src/assets/Screenshot.png?raw=true)
 
 ### Links
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [sipang-portfolio](https://sipang-portfolio.vercel.app/)
+- Frontend Mentor - [@aomsk](https://www.frontendmentor.io/profile/aomsk)
