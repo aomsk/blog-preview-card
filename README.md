@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-react-and-tailwind-css-A7XsLvxQ5P)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
